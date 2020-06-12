@@ -1,0 +1,14 @@
+Incluir diferencias de contagio entre:
+- Dentro de localidad
+- Entre localidades
+
+Donde se generan los mayores contagios?
+Movilidad aleatoria u Origen-Destino
+
+Incluir relajación de la Movilidad
+
+Incluir contactos de los que están el hogar (en cuarentena)
+
+Inmunidad: 35%
+
+otros:

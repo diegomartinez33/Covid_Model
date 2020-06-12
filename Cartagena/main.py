@@ -15,7 +15,7 @@ ruta_datos_movilidad = "./datos_movilidad_vf_cartagena.xlsx"
 #parámetros del modelo
 m = 250 #tamaño de la grilla
 infectados_iniciales = 0.999 #porcentaje de infectados iniciales
-porcentaje_agentes = 0.4 #porcentaje de agentes con respecto a la estimación
+porcentaje_agentes = 0.1 #porcentaje de agentes con respecto a la estimación
 longitud_de_paso = 15 #ventana de tiempo del movimiento de los agentes
 dias_cuarentena = 70 #Días que durará la primera cuarentena
 porcentaje_en_cuarentena = 0.86 #Porcentaje de restricción a la movilidad en la cuarentena
